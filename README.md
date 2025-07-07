@@ -1,4 +1,4 @@
 # book
-Repository for presenting demos tracking issues for the Large Language Models book.
+Repository for presenting demos and tracking issues for the Large Language Models book.
 
 
