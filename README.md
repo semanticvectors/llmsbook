@@ -2,7 +2,8 @@
 
 Repository for presenting demos and tracking issues for the Large Language Models book.
 
-The book is available to buy in these formats:
-* Kindle electronic version: [Large Language Models: How They Work and Why They Matter](https://www.amazon.com/dp/B0FTYMS1N2/)
+[Large Language Models: How They Work and Why They Matter](https://www.amazon.com/Large-Language-Models-They-Matter/dp/B0FXWHMNM8) is available in paperback and Kindle. If you like the book, please leave positive ratings and reviews there!
+
+If you see a mistake that might be fixed (bug report), or have a suggestion for topics to address in future editions (feature request), please let us know using the "Issues" tab here.
 
 ![Cover of the Large Language Models Book](cover.png)
